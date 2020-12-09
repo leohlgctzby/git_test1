@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T08:49:17.956Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="rnzeo2I4ZejSQSw_v6QP" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T08:41:01.185Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0etEPZz7LEhFVOcIIgml" version="13.10.0" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="2031" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,25 +13,25 @@
         <mxCell id="12" value="学生基础数据" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="640" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="学院管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="23" value="学院管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="439.99999999999994" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="专业管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="24" value="专业管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="440.0000000000001" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="班级管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="25" value="班级管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="440.00000000000006" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="38" value="学生信息管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="38" value="学生信息管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="639.9999999999995" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39" value="未登记就业&#xa;信息统计" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="39" value="未登记就业&#xa;信息统计" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="639.9999999999998" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40" value="未登记实践&#xa;信息统计" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="40" value="未登记实践&#xa;信息统计" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="639.9999999999998" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="基础数据导入" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="41" value="基础数据导入" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="639.9999999999999" y="600.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="43" value="评价与反馈管理" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
@@ -40,31 +40,31 @@
         <mxCell id="44" value="实践教学管理" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999998" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="45" value="来自企业的反馈" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="45" value="来自企业的反馈" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="809.9999999999998" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="46" value="来自毕业生&#xa;的反馈" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="46" value="来自毕业生&#xa;的反馈" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="809.9999999999999" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="47" value="来自教师的反馈" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="47" value="来自教师的反馈" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="809.9999999999998" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="来自社会的反馈" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="48" value="来自社会的反馈" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="810" y="600.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50" value="创新创业项目" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="50" value="创新创业项目" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999993" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="学科竞赛" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="51" value="学科竞赛" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999995" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="实验室开放项目" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="52" value="实验室开放项目" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999995" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53" value="实习（实训）" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="53" value="实习（实训）" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999997" y="600.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="54" value="毕业论文&#xa;（设计）" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="54" value="毕业论文&#xa;（设计）" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999998" y="680.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="105" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;fontSize=16;fontStyle=0" parent="1" source="10" target="23" edge="1">
@@ -217,25 +217,25 @@
         <mxCell id="134" value="历年对比分析" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999998" y="260.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="135" value="学校可视化展现" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="135" value="学校可视化展现" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1179.9999999999998" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="136" value="学院可视化展现" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="136" value="学院可视化展现" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1180" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="137" value="专业可视化展现" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="137" value="专业可视化展现" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1179.9999999999998" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="138" value="班级可视化展现" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="138" value="班级可视化展现" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1180" y="600.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="140" value="学校对比" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="140" value="学校对比" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999993" y="360.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="141" value="学院对比" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="141" value="学院对比" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999995" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="142" value="专业对比" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="142" value="专业对比" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999995" y="520.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="145" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;fontSize=16;fontStyle=0" parent="1" source="133" target="135" edge="1">
@@ -312,19 +312,19 @@
         <mxCell id="156" value="日志管理" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999998" y="260.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="157" value="管理员管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="157" value="管理员管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1549.9999999999998" y="360.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="158" value="辅导员管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="158" value="辅导员管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1550" y="440.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="159" value="学生管理" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="159" value="学生管理" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1549.9999999999998" y="520.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="162" value="登录记录" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="162" value="登录记录" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999993" y="360.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="163" value="密码修改记录" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="163" value="密码修改记录" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999995" y="440.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="167" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;fontSize=16;fontStyle=0" parent="1" source="155" target="157" edge="1">
@@ -375,10 +375,10 @@
         <mxCell id="177" value="个人中心" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1919.9999999999998" y="259.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="179" value="个人信息" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="179" value="个人信息" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1919.9999999999998" y="359.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="180" value="修改密码" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="180" value="修改密码" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;fontSize=16;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1920" y="439.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="189" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;fontSize=16;fontStyle=0" parent="1" source="177" target="179" edge="1">
